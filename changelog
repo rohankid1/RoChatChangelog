@@ -1,4 +1,5 @@
 <h3>August 8th 2020</h3><br>
-<p>-Changelog added.</p> <br>
+<p>-Changelog added.</p><br>
 <p>- Changed default user picture.</p>
 <p>- The username greeting and the profile are more apart to prevent the image from covering larger names (hopefully).</p>
+<p>- Added a website favicon (small icon at the side of the current tab) </p>
