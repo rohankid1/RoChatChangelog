@@ -10,3 +10,7 @@
 <h3>August 11th 2020</h3><br>
 <p>- Now you must choose a profile image when you register an account.</p>
 <p>- Changed the scrollbar style to a custom one.</p>
+<br>
+<h3>August 12th 2020</h3><br>
+<p>- When you delete an account, it will now delete the user from the database and from the firebase storage.</p>
+
