@@ -15,4 +15,6 @@
 <p>- When you delete an account, it will now delete the user from the database and from the firebase storage.</p>
 <p>- Finished making the members section, where you can see all registered users.</p>
 <p>- Added a custom context menu when you right click.</p>
-
+<br>
+<h3>August 20th 2020</h3><br>
+<p>- Now the login/register will be in a seperate page instead of single page to prevent glitches and bugs from occuring.</p>
